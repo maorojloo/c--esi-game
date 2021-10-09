@@ -1,0 +1,21 @@
+G:\new html 5 94\Csharp-Games[Second Series]\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+G:\new html 5 94\Csharp-Games[Second Series]\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+C:\Users\zhila\Desktop\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\Users\zhila\Desktop\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+F:\1SpaceInvaders_GAme_Source_with_Csharp\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+F:\1SpaceInvaders_GAme_Source_with_Csharp\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+F:\1SpaceInvaders_GAme_Source_with_Csharp\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
+F:\1SpaceInvaders_GAme_Source_with_Csharp\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+F:\1SpaceInvaders_GAme_Source_with_Csharp\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+F:\1SpaceInvaders_GAme_Source_with_Csharp\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+X:\projects_import\c#\#html_game\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+X:\projects_import\c#\#html_game\SpaceInvaders\obj\Debug\SpaceInvaders.pdb
+X:\projects_import\c#\#html_game\SpaceInvaders\obj\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+X:\projects_import\c#\#html_game\SpaceInvaders\obj\Debug\SpaceInvaders.Form1.resources
+X:\projects_import\c#\#html_game\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+X:\projects_import\c#\#html_game\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+X:\projects_import\c#\#html_game\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+X:\projects_import\c#\#html_game\SpaceInvaders\obj\Debug\SpaceInvaders.level.resources
+X:\projects_import\c#\#html_game\SpaceInvaders\obj\Debug\SpaceInvaders.load.resources
+X:\projects_import\c#\#html_game\SpaceInvaders\obj\Debug\SpaceInvaders.Properties.Resources.resources
+X:\projects_import\c#\#html_game\SpaceInvaders\obj\Debug\SpaceInvaders.about.resources
